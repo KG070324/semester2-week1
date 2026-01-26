@@ -12,3 +12,8 @@
 
 -- write your sql code here
 
+--select country from countries order by population desc limit 10
+--select country from countries order by AreaSqMi asc limit 5
+-- select country from countries where continent = 'Europe' order by AreaSqMi desc limit 1
+--select country from countries where continent = 'Africa' order by AreaSqMi asc limit 3
+ 
